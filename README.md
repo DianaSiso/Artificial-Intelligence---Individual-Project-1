@@ -14,5 +14,5 @@ For this project, we only used python and VSCode as a code editor.
 
 # Authors
 
-[DIana Oliveira](https://github.com/DianaSiso)
+[Diana Oliveira](https://github.com/DianaSiso)
 
