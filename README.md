@@ -2,7 +2,7 @@
 
 # Artificial Intelligence - Individual Project 
 
-This project was developed in the context of [Artifical Intelligence](https://www.ua.pt/en/uc/12287) curricular unit, part of the Computer Science Bachelor at [Aveiro University](https://www.ua.pt/). It was lectured by [Luís Filipe de Seabra Lopes](https://www.ua.pt/en/p/10314261) and [Diogo Nuno Pereira Gomes](https://www.ua.pt/en/p/10331537) during the 2021/2022 school year.
+This project was developed in the context of [Artificial Intelligence](https://www.ua.pt/en/uc/12287) curricular unit, part of the Computer Science Bachelor at [Aveiro University](https://www.ua.pt/). It was lectured by [Luís Filipe de Seabra Lopes](https://www.ua.pt/en/p/10314261) and [Diogo Nuno Pereira Gomes](https://www.ua.pt/en/p/10331537) during the 2021/2022 school year.
 
 It was grades **18.2 out of 20**.
 
